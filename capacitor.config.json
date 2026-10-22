@@ -1,0 +1,6 @@
+{
+  "appId": "dev.playground.gooey",
+  "appName": "Gooey Playground",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
